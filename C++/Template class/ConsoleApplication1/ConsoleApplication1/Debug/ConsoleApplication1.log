@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+f:\дела\институты\программирование информационных систем\dz\6\consoleapplication1\consoleapplication1\consoleapplication1.cpp(41): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+f:\дела\институты\программирование информационных систем\dz\6\consoleapplication1\consoleapplication1\consoleapplication1.cpp(51): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+f:\дела\институты\программирование информационных систем\dz\6\consoleapplication1\consoleapplication1\consoleapplication1.cpp(46): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+f:\дела\институты\программирование информационных систем\dz\6\consoleapplication1\consoleapplication1\consoleapplication1.cpp(51): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+f:\дела\институты\программирование информационных систем\dz\6\consoleapplication1\consoleapplication1\consoleapplication1.cpp(56): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+f:\дела\институты\программирование информационных систем\dz\6\consoleapplication1\consoleapplication1\consoleapplication1.cpp(51): warning C4244: =: преобразование "double" в "unsigned char", возможна потеря данных
+  ConsoleApplication1.vcxproj -> F:\Дела\Институты\Программирование информационных систем\DZ\6\ConsoleApplication1\Debug\ConsoleApplication1.exe

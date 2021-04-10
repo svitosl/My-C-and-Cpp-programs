@@ -1,0 +1,14 @@
+------------New book 1------------
+Name: Организация ЭВМ и систем,
+Type: 670,
+Pages: Учебник,
+Frequency_of_the_book: 10000,
+Circulation: 200000,
+Releases_per_year: 100000
+------------New book 2------------
+Name: Архитектура компьютерных систем,
+Type: Учебник,
+Pages: 800,
+Frequency_of_the_book: 95000,
+Circulation: 45021,
+Releases_per_year: 10214
